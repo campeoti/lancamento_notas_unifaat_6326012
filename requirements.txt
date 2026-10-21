@@ -1,0 +1,5 @@
+pyautogui>=0.9.54
+pyperclip>=1.8
+websocket-client>=1.6
+pandas>=2.0
+openpyxl>=3.1

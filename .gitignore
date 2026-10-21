@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+~$*.xlsx
+dados/notas_formatado.csv
+dados/respostas.xlsx
+.vscode/
